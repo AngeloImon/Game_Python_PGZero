@@ -1,6 +1,6 @@
-# Game_Python_PGZero
+[English README](https://github.com/AngeloImon/Game_Python_PGZero/blob/main/README.en.md)
 
-# 🎮 Plataformeiro
+# Game_Python_PGZero
 
 **Plataformeiro** é um jogo de plataforma dinâmico desenvolvido com [PgZero](https://pygame-zero.readthedocs.io/en/stable/), onde o jogador escala plataformas geradas automaticamente, enfrenta inimigos e coleta moedas para acumular pontos. O jogo não tem fim — a aventura continua até o herói cair ou ser derrotado.
 
