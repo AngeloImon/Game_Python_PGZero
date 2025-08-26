@@ -59,7 +59,7 @@ Este projeto segue restrições específicas:
 ---
 
 ## 📁 Estrutura do Projeto
-    Plataformeiro/
+    Game_Python_PGZero/
     ├── game.py
     ├── hero.py
     ├── enemy.py
