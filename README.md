@@ -59,20 +59,20 @@ Este projeto segue restrições específicas:
 ---
 
 ## 📁 Estrutura do Projeto
-Plataformeiro/
-├── game.py
-├── hero.py
-├── enemy.py
-├── platforms.py
-├── scenario.py
-├── menu.py
-├── constants.py
-├── settings.py
-├── scores.txt
-├── images/
-├── sounds/
-├── music/
-└── .venv/
+    Plataformeiro/
+    ├── game.py
+    ├── hero.py
+    ├── enemy.py
+    ├── platforms.py
+    ├── scenario.py
+    ├── menu.py
+    ├── constants.py
+    ├── settings.py
+    ├── scores.txt
+    ├── images/
+    ├── sounds/
+    ├── music/
+    └── .venv/
 
 ---
 
