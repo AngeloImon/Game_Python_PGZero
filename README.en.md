@@ -1,4 +1,4 @@
-README em [Portugês](https://github.com/AngeloImon/Game_Python_PGZero/edit/main/README.md)
+[README em Portugês](https://github.com/AngeloImon/Game_Python_PGZero/edit/main/README.md)
 
 # 🎮 Plataformeiro
 
